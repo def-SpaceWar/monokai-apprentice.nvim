@@ -13,10 +13,10 @@ require("base16-colorscheme").setup {
     base08 = "#FF0022",
     base09 = "#EE5500",
     base0A = "#9933BB", -- yellow replaced with purple
-    base0B = "#009955",
+    base0B = "#009933",
     base0C = "#0077DD",
     base0D = "#0033FF",
-    base0E = "#FF1188",
+    base0E = "#00AA99", -- hot pink replaced with turquiose
     base0F = "#DD4400"
 }
 EOF

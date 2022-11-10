@@ -2,21 +2,21 @@ let g:colors_name="monokai-apprentice-light"
 
 lua << EOF
 require("base16-colorscheme").setup {
-    base00 = "#CBCBCB",
-    base01 = "#B9B9B9",
-    base02 = "#A6A6A6",
-    base03 = "#939393",
-    base04 = "#1C1C1C",
-    base05 = "#2D2D2D",
-    base06 = "#3E3E3E",
-    base07 = "#4F4F4F",
+    base00 = "#EBDBCB",
+    base01 = "#D9C9B9",
+    base02 = "#C6B6A6",
+    base03 = "#B3A393",
+    base04 = "#1C2C3C",
+    base05 = "#2D3D4D",
+    base06 = "#3E4E5E",
+    base07 = "#4F5F6F",
     base08 = "#FF0022",
     base09 = "#EE5500",
-    base0A = "#9933BB", -- yellow replaced with purple
-    base0B = "#009933",
+    base0A = "#5500FF", -- yellow replaced with purple
+    base0B = "#339900",
     base0C = "#0077DD",
     base0D = "#0033FF",
-    base0E = "#00AA99", -- hot pink replaced with turquiose
+    base0E = "#009977", -- hot pink replaced with turquoise
     base0F = "#DD4400"
 }
 EOF

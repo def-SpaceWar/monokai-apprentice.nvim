@@ -12,12 +12,12 @@ require("base16-colorscheme").setup {
     base06 = "#3E4E5E",
     base07 = "#4F5F6F",
     base08 = "#FF4346",
-    base09 = "#BB4466", -- Orange replaced with DarkRed
-    base0A = "#9852BF", -- Yellow replaced with Purple
+    base09 = "#7F7F7F", -- Orange replaced with Grey
+    base0A = "#9822FF", -- Yellow replaced with Purple
     base0B = "#2C7D16",
-    base0C = "#058CAF",
-    base0D = "#2764B8",
-    base0E = "#7F7F7F", -- HotPink replaced with Grey
+    base0C = "#000000", -- Cyan replaced with Black
+    base0D = "#3A34FF",
+    base0E = "#1898FF", -- HotPink replaced with Cyan
     base0F = "#FF37A6"  -- Brown replaced with HotPink
 }
 EOF
